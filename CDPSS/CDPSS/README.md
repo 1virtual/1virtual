@@ -5,7 +5,6 @@ The proposed framework integrates endpoint residual compensation diffusion sampl
 
 ![Teaser Image](./sd.png "Teaser")
 ## Download Weights
-This repository is developed based on https://github.com/Stability-AI/stablediffusion/tree/main, and we have not modified the original model architectures and weights.
 
 The two models used in our paper:
 + Stable Diffusion v1-5: https://drive.google.com/file/d/1ISeumzN-JrhyAacOPlh1IjAv6MKffogU/view?usp=sharing
