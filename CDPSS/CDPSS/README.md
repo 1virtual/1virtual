@@ -1,4 +1,4 @@
-# RMP-CDPSS
+# CDPSS
 Code repository for "Robust Multi-Party Generative Steganography via Compensated Diffusion Sampling with Dual-Prompt Guidance and Secret Sharing" by Shuhao Feng and Jialiang Peng.
 
 The proposed framework integrates endpoint residual compensation diffusion sampling (ERC-DPM), dual-prompt guidance, Blakley threshold secret sharing, reversible latent mapping, and bit-level consensus for robust multi-party secret recovery.
