@@ -45,13 +45,3 @@ When the attack layer is mblur or gblur, the "factor" refers to the size of the 
 ## Notes
 There may be unused code paths, including those related to image resolution. If you intend to use a different generative model, please modify the relevant parts accordingly. The commands above retain the original script interface; verify that the uploaded implementation supports the proposed multi-party mapping, ERC-DPM, dual-prompt guidance, and voting mechanisms before using them to reproduce the paper.
 
-## Citation
-If you find our work helpful, we would appreciate it if you could cite the following reference:
-```bibtex
-@misc{feng2027rmpcdpss,
-  title={Robust Multi-Party Generative Steganography via Compensated Diffusion Sampling with Dual-Prompt Guidance and Secret Sharing},
-  author={Feng, Shuhao and Peng, Jialiang},
-  year={2027},
-  note={Manuscript submitted to CVPR 2027}
-}
-```
