@@ -3,7 +3,7 @@ Code repository for "Robust Multi-Party Generative Steganography via Compensated
 
 The proposed framework integrates endpoint residual compensation diffusion sampling (ERC-DPM), dual-prompt guidance, Blakley threshold secret sharing, reversible latent mapping, and bit-level consensus for robust multi-party secret recovery.
 
-
+![Teaser Image](./sd.png "Teaser")
 ## Download Weights
 
 The two models used in our paper:
@@ -44,5 +44,3 @@ When the attack layer is mblur or gblur, the "factor" refers to the size of the 
 
 ## Notes
 There may be unused code paths, including those related to image resolution. If you intend to use a different generative model, please modify the relevant parts accordingly. The commands above retain the original script interface; verify that the uploaded implementation supports the proposed multi-party mapping, ERC-DPM, dual-prompt guidance, and voting mechanisms before using them to reproduce the paper.
-
--->
